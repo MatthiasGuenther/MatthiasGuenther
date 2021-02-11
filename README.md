@@ -13,9 +13,7 @@ ___
 ___
 
 ### __Tools__
-<img height="32" weight="32" alt="Visual Studio Code" src="https://simpleicons.org/icons/visualstudiocode.svg" style="background:#007ACC; border:5px; bordercolor:#007ACC">
-
-<img height="32" weight="32" alt="XAMPP" src="https://simpleicons.org/icons/xampp.svg" style="background:#FB7A24; border:5px">
+<img height="32" weight="32" alt="Visual Studio Code" src="https://simpleicons.org/icons/visualstudiocode.svg" style="background:#007ACC; border:5px; bordercolor:#007ACC"> <img height="32" weight="32" alt="XAMPP" src="https://simpleicons.org/icons/xampp.svg" style="background:#FB7A24; border:5px">
 
 ___
 #### __Contact__
