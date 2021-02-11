@@ -1,6 +1,6 @@
 ## __Hi there, I'm Matthias!__ 👋
 
-I'm a new Web Developer who wants to paticipate in open source projects.
+I'm a new Web Developer who wants to paticipate in open source projects and develop his skills.
 ___
 ### __Skills__
 
