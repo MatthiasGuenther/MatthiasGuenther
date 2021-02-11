@@ -15,8 +15,8 @@ ___
 #### __Contact__
 
 __E-Mail:__ <a href="mailto:matthias-guenther@web.de">matthias-guenther@web.de</a>
-<a href="https://www.instagram.com/matzeberlin83/"><img alt="Instagram Camera" src="https://simpleicons.org/icons/instagram.svg" width="25px" height="25px" style="background:#E4405F; vertical-align:middle;margin:20px 0px"/></a>
-<a href="https://twitter.com/MatthiasGnther"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 style="vertical-align:middle;margin:20px 0px"></a> 
+<a href="https://www.instagram.com/matzeberlin83/"><img alt="Instagram Camera" src="https://simpleicons.org/icons/instagram.svg" width="25px" height="25px"/></a>
+<a href="https://twitter.com/MatthiasGnther"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 
 
 ---
