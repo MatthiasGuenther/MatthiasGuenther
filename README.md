@@ -12,7 +12,7 @@ ___
 #### __Connect with me!__
 
 <a href="https://www.linkedin.com/in/matthias-günther-82874872/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Matthias Günther's LinkedIn Profile" height="30" width="30"></a>
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/matthiasguen)
+[![](https://img.shields.io/badge/Telegram-%40matthiasguen-blue)](https://t.me/matthiasguen)
 <a href="https://www.facebook.com/matthias.gunther.315"><img alt="facebook" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1613073157~hmac=1de7a406011e64ab177c840ec34f1a75" width="30px" height="30px"></a>
 <a href="https://www.instagram.com/matzeberlin83/"><img alt="Instagram" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1613073535~hmac=58cf1622aba7777f57c30f634c31251e" width="30px" height="30px"></a>
 <a href="https://twitter.com/MatthiasGnther"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
