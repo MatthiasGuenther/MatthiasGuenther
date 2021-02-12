@@ -9,7 +9,7 @@ ___
 <img height="32" weight="32" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"> <img height="32" weight="32" alt="XAMPP" src="https://simpleicons.org/icons/xampp.svg" style="background:#FB7A24; border:5px">
 
 ___
-#### __Contact__
+#### __Connect with me!__
 
 <a href="https://www.linkedin.com/in/matthias-günther-82874872/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Matthias Günther's LinkedIn Profile" height="30" width="30"></a>
 <a href="https://www.facebook.com/matthias.gunther.315"><img alt="facebook" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1613073157~hmac=1de7a406011e64ab177c840ec34f1a75" width="30px" height="30px"></a>
